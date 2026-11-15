@@ -42,25 +42,25 @@ Pada latihan pertama, dibuat program PHP sederhana untuk menampilkan teks menggu
 
 Pada latihan kedua, dipelajari penggunaan variabel, operator aritmetika, dan percabangan. Program digunakan untuk mengolah nilai dan menentukan hasil berdasarkan kondisi tertentu.
 
-![Latihan 2](Screenshot/ss2 (2).png)
+![Latihan 2](Screenshot/ss2%20(2).png)
 
 ### 4.3 Latihan 3 – Perulangan dan Array
 
 Pada latihan ketiga, dibuat program menggunakan array untuk menyimpan beberapa data. Perulangan `foreach` digunakan untuk menampilkan seluruh data yang tersimpan.
 
-![Latihan 3](Screenshot/ss3 (2).png)
+![Latihan 3](Screenshot/ss3%20(2).png)
 
 ### 4.4 Latihan 4 – Function
 
 Pada latihan keempat, dipelajari cara membuat dan memanggil function dalam PHP. Function digunakan untuk menjalankan tugas tertentu agar kode program lebih terstruktur.
 
-![Latihan 4](Screenshot/ss4 (2).png)
+![Latihan 4](Screenshot/ss4%20(2).png)
 
 ### 4.5 Latihan 5 – Form dengan Metode GET
 
 Pada latihan kelima, dibuat formulir sederhana menggunakan metode GET. Data yang dikirim akan ditampilkan melalui URL browser.
 
-![Latihan 5](Screenshot/ss5 (3).png)
+![Latihan 5](Screenshot/ss5%20(3).png)
 
 ### 4.6 Latihan 6 – Form dengan Metode POST
 
@@ -94,11 +94,11 @@ Eksperimen kedua mengembangkan formulir GET untuk mencari nama dari sebuah array
 
 **Pengujian Valid**
 
-![Eksperimen 2 Valid](Screenshot/ss10 valid.png)
+![Eksperimen 2 Valid](Screenshot/ss10.valid.png)
 
 **Pengujian Tidak Valid**
 
-![Eksperimen 2 Tidak Valid](Screenshot/ss10 invalid.png)
+![Eksperimen 2 Tidak Valid](Screenshot/ss10.invalid.png)
 
 ### 5.3 Eksperimen 3 – Function Format Rupiah
 
@@ -112,11 +112,11 @@ Eksperimen keempat menambahkan validasi NIM agar hanya menerima angka dan memili
 
 **Pengujian Valid**
 
-![Eksperimen 4 Valid](Screenshot/ss12 valid.png)
+![Eksperimen 4 Valid](Screenshot/ss12.valid.png)
 
 **Pengujian Tidak Valid**
 
-![Eksperimen 4 Tidak Valid](Screenshot/ss12 invalid.png)
+![Eksperimen 4 Tidak Valid](Screenshot/ss12.invalid.png)
 
 ### 5.5 Eksperimen 5 – Tombol Reset pada Form
 
