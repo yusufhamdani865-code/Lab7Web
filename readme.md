@@ -42,25 +42,25 @@ Pada latihan pertama, dibuat program PHP sederhana untuk menampilkan teks menggu
 
 Pada latihan kedua, dipelajari penggunaan variabel, operator aritmetika, dan percabangan. Program digunakan untuk mengolah nilai dan menentukan hasil berdasarkan kondisi tertentu.
 
-![Latihan 2](Screenshot/ss2(2).png)
+![Latihan 2](Screenshot/ss2 (2).png)
 
 ### 4.3 Latihan 3 – Perulangan dan Array
 
 Pada latihan ketiga, dibuat program menggunakan array untuk menyimpan beberapa data. Perulangan `foreach` digunakan untuk menampilkan seluruh data yang tersimpan.
 
-![Latihan 3](Screenshot/ss3(2).png)
+![Latihan 3](Screenshot/ss3 (2).png)
 
 ### 4.4 Latihan 4 – Function
 
 Pada latihan keempat, dipelajari cara membuat dan memanggil function dalam PHP. Function digunakan untuk menjalankan tugas tertentu agar kode program lebih terstruktur.
 
-![Latihan 4](Screenshot/ss4(2).png)
+![Latihan 4](Screenshot/ss4 (2).png)
 
 ### 4.5 Latihan 5 – Form dengan Metode GET
 
 Pada latihan kelima, dibuat formulir sederhana menggunakan metode GET. Data yang dikirim akan ditampilkan melalui URL browser.
 
-![Latihan 5](Screenshot/ss5(3).png)
+![Latihan 5](Screenshot/ss5 (3).png)
 
 ### 4.6 Latihan 6 – Form dengan Metode POST
 
